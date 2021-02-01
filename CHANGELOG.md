@@ -34,7 +34,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com), and this 
 ### Added
 - Initial release
 
-[Unreleased]: https://github.com/HDInnovations/xbtit-to-unit3d/compare/master...develop
+[Unreleased]: https://github.com/HDInnovations/gazelle-to-unit3d/compare/master...develop
 [v1.1.0]: https://github.com/HDInnovations/gazelle-to-unit3d/compare/v1.0.2...v1.1.0
 [v1.0.2]: https://github.com/HDInnovations/gazelle-to-unit3d/compare/v1.0.1...v1.0.2
 [v1.0.1]: https://github.com/HDInnovations/gazelle-to-unit3d/compare/v1.0.0...v1.0.1
