@@ -2,8 +2,8 @@
 
 namespace pxgamer\GazelleToUnit3d\Tests;
 
-use Orchestra\Testbench\TestCase;
 use Illuminate\Foundation\Application;
+use Orchestra\Testbench\TestCase;
 use pxgamer\GazelleToUnit3d\ServiceProvider;
 
 class ServiceProviderTest extends TestCase
@@ -19,7 +19,6 @@ class ServiceProviderTest extends TestCase
 
     /**
      * @param  Application  $app
-     *
      * @return array
      */
     protected function getPackageProviders($app): array

@@ -2,8 +2,8 @@
 
 namespace pxgamer\GazelleToUnit3d\Functionality;
 
-use stdClass;
 use Carbon\Carbon;
+use stdClass;
 
 class Mapping
 {
